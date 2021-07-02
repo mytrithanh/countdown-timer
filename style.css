@@ -4,7 +4,7 @@
     box-sizing: border-box; 
 }
 body{
-    background-image: url('./image/background.jpeg');
+    background-image: url('https://fynefettle.com/wp-content/uploads/2021/06/exams.jpeg');
     background-size: cover;
     background-position: center center;
     display: flex;
